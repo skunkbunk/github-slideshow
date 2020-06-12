@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This IS the text. All the text...
+I'm am the humorless Borg. What is teh funny?
 Use the left arrow to go back!
